@@ -1,0 +1,5 @@
+
+_squid:UselessImportCheck"4Remove this unused import 'android.content.Context'.(©Ê‰è8«ÆÑâ….
+€squid:S1450"bRemove the "linearLayoutManager" field and declare it as a local variable in the relevant methods.(„žñš8ÓÎîá….
+€squid:S1450"bRemove the "recyclerViewAdapter" field and declare it as a local variable in the relevant methods.(šŽ¢Ì8•§ñá….
+esquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(²Ú±Ž
